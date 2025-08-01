@@ -1,6 +1,6 @@
 
 param(
-    [string]$UsuarioSSH = "nodecolombia",
+    [string]$UsuarioSSH = "node-02",
     [string]$NombreMiniPC = "MiniPC"
 )
 
